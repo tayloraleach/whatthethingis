@@ -29,3 +29,6 @@ Start dev server with `npx react-native start` and run with:
 
 - Support additional languages. Currently hard codeded to go from English -> Spanish
 - Add support for additional models (or custom models)
+
+
+![alt text](screenshot.jpg)
