@@ -4,7 +4,7 @@ Object detection application with trained models - translating the predictions t
 
 Built with React Native, Clarifai, and Microsoft Translator!
 
-(Inspired by this old repo https://github.com/dmotz/thing-translator)
+(Inspired by https://github.com/dmotz/thing-translator)
 
 
 #### Local Development
